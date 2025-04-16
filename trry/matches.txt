@@ -1,0 +1,41 @@
+// ... existing matches ...
+1d27a91a-19e0-4dd0-a06f-a124a1205a98
+Sri Lanka A won by 6 wkts
+Sri Lanka A
+208/4 (19.3 overs)
+Afghanistan A
+205/7 (20 overs)
+4/15/2025
+Sheikh Zayed Stadium, Abu Dhabi
+Sri Lanka A won by 6 wkts
+
+1d27a91a-19e0-4dd0-a06f-a124a1205a98
+Sri Lanka A won by 45 runs
+Sri Lanka A
+182/5 (20 overs)
+Ireland A
+137/9 (20 overs)
+4/13/2025
+Sheikh Zayed Stadium, Abu Dhabi
+Sri Lanka A won by 45 runs
+
+aec428cf-253f-45d2-9e24-0def3ddfbe6b
+Kuwait won by 3 runs
+Nepal
+149/8 (20 overs)
+Kuwait
+152/6 (19.2 overs)
+4/13/2025
+Mission Road Ground, Mong Kok
+Kuwait won by 3 runs
+
+aec428cf-253f-45d2-9e24-0def3ddfbe6b
+Hong Kong won by 1 run
+Hong Kong
+165/7 (20 overs)
+Qatar
+164/9 (20 overs)
+4/13/2025
+Mission Road Ground, Mong Kok
+Hong Kong won by 1 run
+// ... rest of the matches ...
